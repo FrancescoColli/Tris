@@ -20,9 +20,6 @@ Il progetto è stato sviluppato durante il mio percorso di apprendimento di Reac
 - CSS
 - Vite
 
-## Avvio del progetto
+## Demo online
 
-Clona il repository e installa le dipendenze:
-
-
-npm install
+https://tris-sand.vercel.app/
