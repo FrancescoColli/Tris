@@ -23,3 +23,5 @@ Il progetto è stato sviluppato durante il mio percorso di apprendimento di Reac
 ## Demo online
 
 https://tris-sand.vercel.app/
+
+> Nota: il progetto è attualmente ottimizzato per la visualizzazione da desktop.
