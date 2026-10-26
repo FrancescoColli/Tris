@@ -22,6 +22,4 @@ Il progetto è stato sviluppato durante il mio percorso di apprendimento di Reac
 
 ## Demo online
 
-<a href="https://tris-sand.vercel.app/" target="_blank" rel="noopener noreferrer">
-  Apri React Tris
-</a>
+https://tris-sand.vercel.app/
